@@ -2,7 +2,7 @@
 
 A third-person superhero sandbox built in Unity 6. Fly over a living city, smash through buildings, burn holes with heat vision, lift cars and planes, and fly straight up through the clouds into space and onto the Moon.
 
-![Flying over the city](Screenshots/aerial.png)
+![Standing above a golden sea of clouds](Screenshots/space/0a_golden_cloud_sea.png)
 
 ## Features
 
@@ -14,12 +14,33 @@ A third-person superhero sandbox built in Unity 6. Fly over a living city, smash
 - **Space**: climb above the clouds, see the Earth, land on the Moon, fight a fighter squadron, then dive back home with re-entry fire
 - **Mobile ready**: on-screen touch controls for iOS
 
-## Screenshots
+## Scenes
+
+### The city
 
 | | |
 |---|---|
-| ![Flight boost](Screenshots/cape/3_fly_boost.png) | ![Heat vision through a building](Screenshots/play/5_laser_through.png) |
-| ![Lifting a car](Screenshots/life/7_lifting_car.png) | ![On the Moon](Screenshots/space/9_on_the_moon.png) |
+| ![Superhero landing cracks the road](Screenshots/fx/landing.png) | ![Super speed afterimages](Screenshots/fx/superspeed.png) |
+| ![Lifting a car over the street](Screenshots/life/7_lifting_car.png) | ![Heat vision blows up a car](Screenshots/life/9_laser_car.png) |
+
+### Destruction
+
+| | |
+|---|---|
+| ![Heat vision burns through a building](Screenshots/play/5_laser_through.png) | ![Punch and kick holes in a wall](Screenshots/play/3_punch_and_kick_holes.png) |
+
+### Flight
+
+| | |
+|---|---|
+| ![Boosting low over the sea](Screenshots/cape/3_fly_boost.png) | ![Holding up an airliner](Screenshots/life/10_holding_plane.png) |
+
+### Space
+
+| | |
+|---|---|
+| ![Above the Earth](Screenshots/space/5_city_and_earth.png) | ![Re-entry fire](Screenshots/space/6b_reentry_fire.png) |
+| ![Earth from the Moon](Screenshots/space/9c_earth_from_the_moon.png) | ![Diving home](Screenshots/space/13a_dive_home_high.png) |
 
 ## Controls
 
