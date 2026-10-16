@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_EarthSurface
+  m_Shader: {fileID: 4800000, guid: ba1beb8e26d634005992c40bb6cde903, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: c0887815ef6ee4816afd51de17513807, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailBump:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OceanMask:
+        m_Texture: {fileID: 2800000, guid: 4f5acce57fbca4b7da3d225f3f16ef61, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _CapCos: 2
+    - _DetailDistance: 0
+    - _RimStrength: 1.2
+    - _Specular: 1.5
+    - _UseCityCut: 1
+    - _UseNormal: 0
+    m_Colors:
+    - _CapDir: {r: 0, g: 1, b: 0, a: 0}
+    - _DetailTiling: {r: 64, g: 32, b: 0, a: 0}
+    - _NightColor: {r: 0.01, g: 0.015, b: 0.03, a: 1}
+    - _RimColor: {r: 0.35, g: 0.6, b: 1, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
